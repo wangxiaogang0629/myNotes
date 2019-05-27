@@ -69,17 +69,17 @@ This is [an example baidu] [id] reference-style link.
 | ---   | :--:  | ---:  |
 | tbody | tbody | tbody |
 
-	 <table>
-	    <tr>
-    		<th> thead </th>
-	    	<th> thead </th>
-	    	<th> thead </th>
-	    </tr>
-	    <tr>
+	<table>
+		<tr>
+			<th> thead </th>
+			<th> thead </th>
+			<th> thead </th>
+		</tr>
+		<tr>
 			<td> tbody</td>
 			<td> tbody </td>
 			<td> tbody </td>
-	    </tr>
+		</tr>
 	</table>
 <table>
     <tr>
