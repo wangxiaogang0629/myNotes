@@ -8,7 +8,7 @@
 
 * `colorscheme参数` 表示主题色
 
-* `cd /usr/share/vim/vim74/colors/` 后主为vim的文件为vim的主题文件 将其作为`colorscheme参数` 即可
+* `cd /usr/share/vim/vim74/colors/` 此处可找到vim的主题文件 将其文件名作为`colorscheme参数` 即可
 
 
 ###其他设置
@@ -23,7 +23,7 @@
 
 * `set number` 显示行号
 
-* `colorscheme pablo`	设置颜色主题
+* `colorscheme peachpuff`	设置颜色主题
 
 * `set ruler`	在编辑过程中，在右下角显示光标位置的状态行
 
